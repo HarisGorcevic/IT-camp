@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.levideo{
+    display: inline-block;
+    width: 20%;
+}
+
+.desnideo{
+    display: inline-block;
+    width: 79%;
+}

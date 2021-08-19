@@ -1,0 +1,53 @@
+.nebitno{
+    position: relative;
+    left: 35%;
+    top: 130px;
+    font-size: 22px;
+
+}
+.nebitnoo{
+    position: relative;
+    right: 92px;
+    font-size: large;
+
+}
+
+.sekcijaa{
+    position: relative;
+    left: 100px;
+    font-size: 40px;
+}
+.sekcija{
+    display: inline-block;
+    width: 270px;
+    height: 20px;
+    position: relative;
+    right: 160px;
+    margin: 30px;
+    bottom: 10px;
+    
+}
+
+#name{
+    width: 300px;
+    height: 30px;
+}
+
+.sekacija{
+    position: relative;
+    top: 45px;
+    right: 136px;
+}
+#email{
+    width: 300px;
+    height: 30px;
+}
+#message{
+    width: 635px;
+    height: 140px;
+    display: block;
+    background-color:rgb(255, 255, 255);
+    border-radius: 7px;
+    
+}
+

@@ -1,0 +1,49 @@
+.naslov-paragraf{
+    margin: auto;
+    margin-top: 100px;
+    margin-left: 300px;
+    background-color: blue;
+    width: 700px;
+}
+
+
+.naslov-glavni{
+    margin: auto;
+    
+    text-align: center;
+}
+.ispod-naslova{
+    margin: auto;
+    margin-top: 20px;
+    width: 700px;
+    text-align: center;
+}
+
+.formovi{
+    margin-top: 50px;
+
+
+}
+
+.div1{
+    display: inline-block;
+    background-color: rgb(73, 73, 109);
+}
+.div2{
+    display: inline-block;
+}
+
+label,input{
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+

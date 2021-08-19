@@ -1,0 +1,23 @@
+body {
+  background: #9e1212;
+  margin: 10;
+  font-family: "Popins";
+}
+
+.navbar {
+  background: #fcf7f7;
+}
+
+.container {
+  background: #929292;
+}
+
+.secondary-nav {
+  background: yellow;
+}
+
+.go-premium {
+  font-style: oblique;
+  text-align: center;
+  text-decoration: line-through;
+}/*# sourceMappingURL=main.css.map */
