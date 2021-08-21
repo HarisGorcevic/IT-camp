@@ -1,0 +1,33 @@
+.glavna{
+    margin-top: 200px;
+}
+
+
+
+
+.klasa{
+    display: inline-block;
+    margin: auto;
+    margin-right: 20px;
+    
+}
+
+.slika{
+    width: 35px;
+    height: 35px;
+    border-radius: 50px;
+}
+
+
+
+.zadnje{
+    position: relative;
+    bottom: 45px;
+    margin: auto;
+    width: 250px;
+    margin-left: 70px;
+    
+}
+ul{
+    list-style-type: none;
+}
