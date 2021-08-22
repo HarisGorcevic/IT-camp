@@ -1,0 +1,20 @@
+.nista{
+    display: inline-block;
+}
+li{
+    display: inline-block;
+}
+.kk{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+h1{
+    display: inline-block;
+}
+ul{
+    display: inline-block;
+    position: relative;
+    left: 700px;
+    
+}
