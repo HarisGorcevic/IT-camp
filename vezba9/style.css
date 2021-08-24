@@ -1,8 +1,10 @@
 .nista{
     display: inline-block;
+    margin-top: 100px;
 }
 li{
     display: inline-block;
+    margin: 10px;
 }
 .kk{
     width: 40px;
@@ -11,10 +13,12 @@ li{
 }
 h1{
     display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
 }
 ul{
     display: inline-block;
-    position: relative;
-    left: 700px;
     
+}
+.zvalo{
+    float: right;
 }

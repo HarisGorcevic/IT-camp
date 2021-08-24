@@ -1,0 +1,75 @@
+label{
+    display: block;
+    margin: 10px;
+    
+}
+input{
+    width: 300px;
+    height: 30px;
+    
+}
+.desna-strana{
+    display: inline-block;
+}
+.leva-strana{
+    display: inline-block;
+}
+.kontejner{
+    border: solid 1px black;
+    display: inline-block;
+    height: 900px;
+    position: relative;
+    left: 300px;
+}
+.naslov{
+    position: relative;
+    bottom: 24px;
+    float: inline-end;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 60px;
+}
+#gender{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+}
+.gender2{
+    display: inline-block;
+}
+.form123{
+    display: inline-block;
+}
+#cukro{
+    display: inline;
+    width: 15px;
+    height: 15px;
+}
+.cekovic-klase{
+    display: inline-block;
+    margin: 2px;
+}
+body{
+    font-family: sans-serif;
+}
+button{
+    position: relative;
+    top: 50px;
+    left: 150px;
+    background: black;
+    width: 300px;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+.cekovi{
+    margin-top: 30px;
+}
+.ukupno{
+    padding: 20px;
+}
