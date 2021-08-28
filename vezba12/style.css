@@ -1,0 +1,44 @@
+
+
+
+
+.header1{
+    background-color: yellow;
+    margin: 3px;
+    width: 600px;
+    height: 70px;
+    margin: 4px;
+}
+
+
+
+.article1{
+    background-color: yellow;
+    width: 90px;
+    margin: 4px;
+    display: inline-block;
+    height: 500px;
+}
+.nav1{
+    background-color: yellow;
+    width: 397px;
+    height: 500px;
+    margin: 4px;
+    display: inline-block;
+}
+.ads1{
+    background-color: yellow;
+    width: 90px;
+    height: 500px;
+    margin: 4px;
+    display: inline-block;
+}
+
+.footer1{
+    display: inline-block;
+    background-color: yellow;
+    margin: 4px;
+    width: 600px;
+    height: 70px;
+
+}

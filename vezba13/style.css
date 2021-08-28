@@ -1,0 +1,33 @@
+
+.div1{
+    
+    border: solid 1px;
+    position: absolute;
+    height: 400px;
+    margin: 20px;
+    left: 400px;
+}
+.div2{
+    
+    border: solid 1px;
+    position: absolute;
+    height: 400px;
+    margin: 20px;
+    left: 330px;
+}
+.div3{
+    
+    border: solid 1px;
+    position: absolute;
+    height: 400px;
+    margin: 20px;
+    left: 260px;
+}
+.div4{
+    border: solid 1px;
+    position: absolute;
+    height: 400px;
+    left: 210px;
+    top: 27px;
+}
+
