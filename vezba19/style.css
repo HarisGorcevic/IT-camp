@@ -1,0 +1,26 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 80px;
+    background-color: aqua;
+    justify-content: space-around;
+    font-size: 25px;
+}
+li{
+    list-style-type: none;
+    margin-left: 40px;
+    margin-top: 28px;
+}
+.paragraf{
+    display: none;
+    background-color:aquamarine;
+    width: 150px;
+    height: 200px;
+    color: wheat;
+    position: absolute;
+    text-align: center;
+}
+.hoverr:hover .paragraf{
+    display: block;
+}
