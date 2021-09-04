@@ -1,0 +1,21 @@
+div{
+    width: 20%;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    
+}
+@keyframes MojaAnimacija{
+    0%{background-color: red;top: 0px; left: 0px;}
+    25%{background-color: green;top: 0px; left: 200px;}
+    50%{background-color: blueviolet;top: 200px;left: 200px;}
+    75%{background-color: black; top: 200px; left: 0px;}
+    100%{background-color: brown;top: 0px;left: 0px;}
+}
+
+div:hover {
+    animation-name: MojaAnimacija;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+
+}

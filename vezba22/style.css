@@ -1,0 +1,31 @@
+div{
+    width: 20%;
+    height: 200px;
+    border: 1px black solid;
+    background-color: slategray;
+    transition: transform 2s ease;
+    text-align: center;
+
+
+}
+.sve{
+    margin-top: 200px;
+    width: 99vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.jedan:hover{
+    transform: rotate(360deg);
+}
+.dva:hover{
+    transform: skew(20deg,20deg);
+}
+.tri:hover{
+    transform: scale(0.5,1);
+}
+.cetiri:hover{
+    transform: translate(120px, 50%);
+}
