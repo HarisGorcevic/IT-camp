@@ -1,0 +1,94 @@
+body{
+    background-image: url(dawn.jpg);
+    width: 100%;
+    height: 100vh;
+    font-family: "Poppins" sans-serif;
+    color: white;
+    display: flex;    
+    justify-content: center;
+
+}
+
+form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+.svi{
+    
+    padding: 20px;
+    background-color: rgba(9, 9, 79, 0.679);
+    width: 60%;
+    height: 130vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+
+}
+label{
+    display: flex;
+    flex-direction: column;
+}
+
+#sve{
+    font-size: 50px;
+    width: 100%;
+    height: 4vh;
+    border-radius: 5px;
+}
+#select1{
+    width: 100%;
+    height: 4%;
+    border: 5px;
+}
+
+.krugs{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+}
+
+select{
+    margin-top: 4px;
+}
+
+.labeli, .koment{
+    margin-top: 20px;
+}
+
+
+
+
+option:hover{
+    background-color:gray;
+}
+
+
+#comment{
+    width: 100%;
+    height: 20vh;
+}
+
+button{
+    background-color: greenyellow;
+    border: none;
+    border-radius: 10px;
+    width: 100%;
+    height: 5vh;
+    margin-top: 30px;
+}
+
+
+
+
+
+@media only screen and(max-width:500px) {
+    .svi{
+        height: 100vh;
+    }
+}

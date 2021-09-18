@@ -1,0 +1,39 @@
+div{
+    background-color: rgb(14, 14, 58);
+    width: 30%;
+    height: 80vh;
+    
+
+
+}
+
+form{
+    margin-left: 20px
+}
+
+input{
+    width: 90%;
+    height: 30px;
+}
+p{
+    color: white;
+    font-size: 21px;
+}
+
+
+#msg{
+    height: 100px;
+}
+
+
+
+button{
+    display: flex;
+    width: 90%;
+    background-color: rgb(8, 8, 79);
+    color: white;
+    border: none;
+    height: 30px;
+    text-align: center;
+    margin-top: 40p;
+}
